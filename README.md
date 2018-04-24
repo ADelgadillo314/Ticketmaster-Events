@@ -8,8 +8,8 @@ Uses:
 - CSS
 - Javascript
 - Bootstrap 
-- TicketMaster API 
-- Google Maps API 
+- TicketMaster API https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/ 
+- Google Maps API https://developers.google.com/maps/documentation/javascript/adding-a-google-map
 - Ajax 
 - Jquery
 - form validation
